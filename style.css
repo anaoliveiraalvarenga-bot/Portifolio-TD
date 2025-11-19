@@ -1,14 +1,19 @@
 *{
     margin: 0;
-    padding: 0%;
+    padding: 0;
 }
+
 body{
-     font-family:sans-serif;
     color:#E06B80; 
+}   font -family: sans- serif; 
+     padding: 10px; 
+ 
 }
+
 header{
      text-align: center;    
 }
+
 span{
     background-color:#660B05;
     color:white;
@@ -23,7 +28,7 @@ span{
     border: 10px solid green;
     padding: 5px;
     margin: 2%;
-    border: #E06B80;
+    border: 5px;
 
   }
     section{
